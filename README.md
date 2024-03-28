@@ -3,7 +3,8 @@
 Welcome to the Marketing and Sales Overview dashboard created in Tableau. This dashboard offers a comprehensive analysis of marketing and sales performance, providing actionable insights to drive strategic decision-making and enhance business operations.
 
 Dashboard Link
-Dashbaord Preview:![marketing](https://github.com/danny002951106/Tableau_Data_Viz/assets/90948199/cc8abceb-c8ea-48af-a9d4-441857eaf200)
+Dashboard Preview: https://public.tableau.com/views/MarketingandSalesDashboard/Marketing_Sales_dashbaord?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+![marketing](https://github.com/danny002951106/Tableau_Data_Viz/assets/90948199/cc8abceb-c8ea-48af-a9d4-441857eaf200)
 
 : 
 
